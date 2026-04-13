@@ -216,19 +216,5 @@ curl -s -H "X-aws-ec2-metadata-token: $TOKEN" \
 
 ---
 
-## Roadmap Progress
-
-| Week | Topic | Score | Status |
-|---|---|---|---|
-| 1 | Cloud Foundations | 87/100 | ✅ |
-| 2 | VPC & Networking | 94/100 | ✅ |
-| 3 | IAM Deep Dive | 94/100 | ✅ |
-| 4 | S3 & Cloud Storage | 92/100 | ✅ |
-| 5 | EC2, IMDS, IAM Roles | 91/100 (retake) | ✅ |
-| 6 | VPC Deep Dive | 88/100 (retake) | ✅ |
-| 7 | CloudTrail, CloudWatch, Config | — | 🔜 |
-
----
-
 *Part of a structured 6-month AWS Cloud Security roadmap building toward cloud security engineering with a DFIR foundation.*  
 *GitHub: [Atlas-Ghostshell](https://github.com/Atlas-Ghostshell)*
